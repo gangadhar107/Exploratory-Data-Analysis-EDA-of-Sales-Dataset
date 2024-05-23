@@ -71,13 +71,13 @@ The analysis provides insights into key sales drivers, customer behavior, and re
 
 ## Requirements
 
-- Python 3.x
-- Jupyter Notebook
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- plotly
+- Python 3.x: The programming language used for the analysis.
+- Jupyter Notebook: The interactive environment for running Python code and displaying results.
+- pandas: A library for data manipulation and analysis in Python.
+- numpy: A library for numerical computations in Python, often used alongside pandas.
+- matplotlib: A library for creating static visualizations such as line plots, bar charts, histograms, etc.
+- seaborn: A statistical data visualization library built on top of matplotlib, providing more aesthetically pleasing and informative visualizations.
+- plotly: A library for creating interactive visualizations and dashboards.
 
 ## Usage
 
