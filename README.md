@@ -86,5 +86,5 @@ To run the analysis, clone this repository and open the Jupyter Notebook in your
 ```bash
 git clone https://github.com/gangadhar107/sales-analysis-eda.git
 cd sales-analysis-eda
-jupyter notebook sales analysis.ipynb
+jupyter notebook sales_analysis.ipynb
 ```
