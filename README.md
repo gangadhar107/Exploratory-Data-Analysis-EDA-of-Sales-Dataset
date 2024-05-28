@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-of-Sales-Dataset
+# Exploratory Data Analysis (EDA) of Sales Dataset
 
 This repository contains the Jupyter Notebook for the Sales Analysis Exploratory Data Analysis (EDA) project. The analysis is performed on the Superstore sales data to uncover insights and trends.
 
@@ -16,7 +16,7 @@ This repository contains the Jupyter Notebook for the Sales Analysis Exploratory
 
 The goal of this project is to analyze sales data from a Superstore to uncover insights and trends that can inform business decisions. This analysis involves several steps, including data cleaning, preprocessing, feature engineering, and visualization.
 
-### Key Objectives:
+### Key Objectives
 
 1. **Data Cleaning and Preprocessing**:
     - Handle missing values in the dataset.
@@ -26,17 +26,17 @@ The goal of this project is to analyze sales data from a Superstore to uncover i
     - Create new features such as `order_month` and `order_year` to facilitate time-based analysis.
 
 3. **Exploratory Data Analysis**:
-EDA involved exploring the sales data to answer key questions, such as:
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the peak sales periods?
-- Who are the most valuable customers?
-- Which states generate the highest revenue?
-- Which cities generate the highest revenue?
-- How does revenue vary across different regions?
-- What is the sales breakdown by category and subcategory?
-- How do sales change year-over-year by category?
-- How does sales performance vary by shipping mode?
+    - Explore the sales data to answer key questions, such as:
+      - What is the overall sales trend?
+      - Which products are top sellers?
+      - What are the peak sales periods?
+      - Who are the most valuable customers?
+      - Which states generate the highest revenue?
+      - Which cities generate the highest revenue?
+      - How does revenue vary across different regions?
+      - What is the sales breakdown by category and subcategory?
+      - How do sales change year-over-year by category?
+      - How does sales performance vary by shipping mode?
 
 ## Data
 
@@ -61,9 +61,9 @@ The dataset includes information on orders, sales, profit, customer details, and
 ## Tools and Libraries
 
 - **Python**: Programming language used for the analysis.
-- **Pandas**: For data manipulation and analysis.
-- **Matplotlib and Seaborn**: For creating static visualizations.
-- **Plotly**: For creating interactive visualizations.
+- **pandas**: For data manipulation and analysis.
+- **matplotlib and seaborn**: For creating static visualizations.
+- **plotly**: For creating interactive visualizations.
 
 ## Insights
 
@@ -87,4 +87,3 @@ To run the analysis, clone this repository and open the Jupyter Notebook in your
 git clone https://github.com/gangadhar107/sales-analysis-eda.git
 cd sales-analysis-eda
 jupyter notebook sales_analysis.ipynb
-```
