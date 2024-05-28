@@ -3,11 +3,11 @@
 The analysis of the Superstore sales data has yielded several valuable insights, summarized below:
 
 ### Overall Sales Trend
-- **Insight**: The overall sales trend from 2015 to 2019 shows that during the second quarter of every year, there is a noticeable spike in sales, indicating a seasonal increase possibly due to annual promotions or market demand during that period.
+- **Insight**: The overall sales trend from 2015 to 2019 shows a noticeable spike in sales during the second quarter of each year. This indicates a seasonal increase, possibly due to annual promotions or heightened market demand during that period.
 ![Overall Sales Trend (2015-2019)](https://github.com/gangadhar107/Exploratory-Data-Analysis-EDA-of-Sales-Dataset/assets/122270202/5ed1f1e7-a9f2-4499-a5a7-c00996fd34eb)
 
 ### Peak Sales Periods
-- **Insight**: The heatmap reveals that November and December are the peak sales months across all years, suggesting a strong influence of holiday shopping on sales performance.
+- **Insight**: The heatmap reveals that November and December are the peak sales months across all years. This suggests a strong influence of holiday shopping on sales performance.
 ![Peak Sales Periods (2015-2019)](https://github.com/gangadhar107/Exploratory-Data-Analysis-EDA-of-Sales-Dataset/assets/122270202/72034786-2b47-41f8-a195-e5bd38653746)
 
 ### Most Valuable Customers
@@ -21,6 +21,9 @@ The analysis of the Superstore sales data has yielded several valuable insights,
 ### Cities with Highest Revenue
 - **Insight**: Cities like New York, Los Angeles, and Seattle lead in sales. Understanding the characteristics of these cities can help replicate success in other regions.
  ![10072574-79ff-46ee-8b85-7326d695228e](https://github.com/gangadhar107/Exploratory-Data-Analysis-EDA-of-Sales-Dataset/assets/122270202/9d9a9bf8-2fe5-486b-a40e-b14a56bd6d72)
+
+### Geographical Analysis
+- **Insight**: The top 10 states contribute 69.08% of the total sales revenue, while the top 20 cities contribute 56.35% of the total sales revenue.
 
 ### Region-wise Revenue
 - **Insight**: The Western region consistently generates the highest revenue, followed by the East and Central regions. This information can guide regional sales strategies and resource allocation.
